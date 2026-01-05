@@ -1,6 +1,7 @@
 # <h1> Daily Learning
 
 ## <h2> Morning Planning
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
 
 - <h2> [ ] Check out the [github blog](https://github.blog/) for topic ideas.
 - <h2> [ ] Learn about [GitHub Pages](https://skills.github.com/#first-day-on-github).
